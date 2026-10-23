@@ -1,0 +1,2 @@
+uiautomation==2.0.29
+pywin32>=306
